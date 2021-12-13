@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Introduction à la création audio et visuelle numérique
 description: Projet de diffusion par Olivier Langlois
+github:
+  is_project_page: false
