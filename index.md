@@ -7,6 +7,6 @@
 
 
 ## Création Vidéo
-<video controls>
+<video controls width=80%>
 	<source src="/resources/MUS1010-Projet2_LangloisOlivier.mp4" type="video/mp4">
 </video>
