@@ -9,7 +9,7 @@
 - Occupation: Étudiants en Informatique
 - Courriel: tjoloi@olanglois.com
 - [Lien vers linked in](https://www.linkedin.com/in/tjoloi/)
-- [Portfolio Github](https://github.com/tjoloi)
+- [Portfolio des projets informatiques sur Github](https://github.com/tjoloi)
 
 ## Création Audio
 Pour le projet de création audio, j'ai décidé de faire une reprise du [chant de marin "Wellerman"](https://fr.wikipedia.org/wiki/Soon_May_the_Wellerman_Come).
