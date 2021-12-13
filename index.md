@@ -1,4 +1,8 @@
+<div hidden>
+	
 # Introduction à la création audio et visuelle numérique
+
+</div>
 
 ## Création Audio
 <audio controls>
